@@ -39,7 +39,7 @@
 
 ## 🖼️ نمای کلی
 
-!(/assests/images/screenshot.png)
+!(https://raw.githubusercontent.com/auroraEros/tap30-demo/refs/heads/main/assets/images/screenshot.png)
 
 ---
 
